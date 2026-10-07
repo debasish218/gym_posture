@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+
+# MediaPipe model files (download separately, see README)
+*.task
